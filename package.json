@@ -1,8 +1,12 @@
 {
   "name": "page-fetcher",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "fetcher.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/DariiaLeliukh/page-fetcher/issues"
   },
-  "homepage": "https://github.com/DariiaLeliukh/page-fetcher#readme",
-  "dependencies": {
-    "request": "^2.88.2"
-  }
+  "homepage": "https://github.com/DariiaLeliukh/page-fetcher#readme"
 }
